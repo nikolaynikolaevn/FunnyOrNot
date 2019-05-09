@@ -1,0 +1,1 @@
+<?php session_start(); if($_SESSION['user_id']) echo 1 ?>
