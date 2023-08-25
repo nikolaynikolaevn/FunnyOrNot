@@ -3,7 +3,7 @@ Entertainment website written in PHP using AJAX for form submitting and navigati
 
 This script can be used for creating a web application for jokes.
 
-# Features
+## Features
 - Viewing jokes
 - Posting jokes
 - Voting for jokes (Yes, No)
