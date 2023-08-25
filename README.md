@@ -1,4 +1,4 @@
-# FunnyOrNot
+# Funny or Not
 Entertainment website written in PHP using AJAX for form submitting and navigation
 
 This script can be used for creating a web application for jokes.
